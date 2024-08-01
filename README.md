@@ -2,9 +2,10 @@
 
 This will help you to keep track of your expenses so that you can save money accordingly.
 
-## Customize configuration
+## Techstack used
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+- vue js
+- tailwind css
 
 ## Project Setup
 
